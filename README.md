@@ -30,7 +30,7 @@ Includes professionally designed pages:
 |-----------|---------|
 | **HTML5** | Structure & SEO-friendly markup |
 | **CSS3**  | Styling, responsive layout, shared header/footer |
-| **JavaScript (Vanilla JS)** | Form validation, interactivity, client-side logic |
+| **JavaScript ** | Form validation, interactivity, client-side logic |
 | **Images & Assets** | Dance styles & UI visuals |
 
 ---
